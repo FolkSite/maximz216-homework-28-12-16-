@@ -1,0 +1,1 @@
+a:3:{i:0;a:3:{s:4:"name";s:3:"adm";s:4:"pass";s:3:"adm";s:7:"checked";i:1;}i:1;a:3:{s:4:"name";s:5:"vasya";s:4:"pass";s:5:"vasya";s:7:"checked";i:0;}i:2;a:3:{s:4:"name";s:2:"yi";s:4:"pass";s:2:"yi";s:7:"checked";i:0;}}
